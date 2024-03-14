@@ -1,0 +1,300 @@
+	td {
+	vertical-align: top;
+	border-top: 1px solid;
+	}
+	
+	.ui-tooltip { /* The outer container for the tooltip.*/
+	  height: 2em;
+	  width: 20em;
+	  background: #DCDCDC;
+	}
+	.ui-tooltip-content {/* The content of the tooltip. */
+	  padding : 0.5em; 
+	}
+    .sentence {
+        margin-top: 10px;
+        display: block;
+    }
+    .filename {
+        vertical-align: top;
+    }
+/*Color codes https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/*/
+    .ADDRESS {
+        background-color: #F0F8FF;
+		 padding: 4px;
+    }
+    .AGE {
+        background-color: #FAEBD7;
+    }
+    .AMOUNT, .AMOUNT_VALUE {
+        background-color: #00FFFF;
+    }
+    .DATE {
+        background-color: #7FFFD4;
+    }
+    .ETHNIC_CATEGORY {
+        background-color: #F0FFFF;
+    }
+    .FINANCIAL {
+        background-color: #F5F5DC;
+    }
+    .MARITAL_STATUS {
+        background-color: #FFE4C4;
+    }
+    .NATIONALITY {
+        background-color: #FFEBCD;
+    }
+    .ORGANISATION, .ORG {
+        background-color: #20B2AA; 
+    }
+    .PERSON, .PER {
+        background-color: #00FF00;
+		 padding: 4px;
+		
+    }
+    .PROFESSION {
+        background-color: #A52A2A;
+		color: #CCCCCC;
+    }
+    .ROLE {
+        background-color: #DEB887;
+    }
+    .TIME {
+        background-color: #5F9EA0;
+    }
+    .VEHICLE {
+        background-color: #7FFF00;
+    }
+    .build_year {
+        background-color: #D2691E;
+    }
+    .building {
+        background-color: #FF7F50;
+    }
+    .calendar_event {
+        background-color: #6495ED;
+    }
+    .city {
+        background-color: #FFF8DC;
+    }
+    .colour {
+        background-color: #DC143C;
+    }
+    .country {
+        background-color: #FFA07A; 
+    }
+    .day {
+        background-color: #008B8B;
+    }
+    .day_of_week {
+        background-color: #B8860B;
+    }
+    .email {
+        background-color: #A9A9A9;
+    }
+    .family_name {
+        background-color: #778899; 
+    }
+    .family_name_-_female {
+        background-color: #BDB76B;
+    }
+    .family_name_-_male {
+        background-color: #87CEFA; 
+    }
+    .given_name {
+        background-color: #556B2F;
+    }
+    .given_name_-_female {
+        background-color: #FF8C00;
+    }
+    .given_name_-_male {
+        background-color: #9932CC;
+    }
+    .health insurance number {
+        background-color: #8B0000;
+    }
+    .id document number, .IDNUM {
+        background-color: #E9967A;
+    }
+    .initial_name {
+        background-color: #8FBC8F;
+    }
+    .licence_plate_number {
+        background-color: #B0C4DE;
+    }
+    .medical_record_number {
+        background-color: #2F4F4F;
+    }
+    .model {
+        background-color: #00CED1;
+    }
+    .month {
+        background-color: #9400D3;
+    }
+    .non-professional {
+        background-color: #FF1493;
+    }
+    .other:address {
+        background-color: #00BFFF;
+    }
+    .other:amount {
+        background-color: #696969;
+    }
+    .other:contact {
+        background-color: #1E90FF;
+    }
+    .other:date {
+        background-color: #B22222;
+    }
+    .other:id {
+        background-color: #FFFAF0;
+    }
+    .other:name {
+        background-color: #228B22;
+    }
+    .other:role {
+        background-color: #FF00FF;
+    }
+    .other:vehicle {
+        background-color: #DCDCDC;
+    }
+    .place {
+        background-color: #F8F8FF;
+    }
+    .postcode {
+        background-color: #FFD700;
+    }
+    .professional {
+        background-color: #DAA520;
+    }
+    .social_security_number {
+        background-color: #808080;
+    }
+    .standard_abbreviation {
+        background-color: #008000;
+    }
+    .street {
+        background-color: #ADFF2F;
+    }
+    .telephone_number {
+        background-color: #F0FFF0;
+    }
+    .territory {
+        background-color: #FF69B4;
+    }
+    .title, .TITLE {
+        background-color: #CD5C5C;
+    }
+    .type {
+        background-color: #4B0082;
+    }
+    .unit {
+        background-color: #FFB6C1; 
+    }
+    .unresolved:address {
+        background-color: #F0E68C;
+    }
+    .unresolved:amount {
+        background-color: #E6E6FA;
+    }
+    .unresolved:contact {
+        background-color: #FFF0F5;
+    }
+    .unresolved:date {
+        background-color: #7CFC00;
+    }
+    .unresolved:id {
+        background-color: #FFFACD;
+    }
+    .unresolved:name {
+        background-color: #ADD8E6;
+    }
+    .unresolved:role {
+        background-color: #F08080;
+    }
+    .unresolved:vehicle {
+        background-color: #E0FFFF;
+    }
+    .url, .URL {
+        background-color: #FAFAD2;
+    }
+    .value {
+        background-color: #D3D3D3;
+    }
+    .year {
+        background-color: #90EE90;
+    }
+    .LOC {
+        background-color: #32CD32;
+    }
+	.AMOUNT_UNIT {
+        background-color: #FF00FF;
+    }
+	.OK {
+		background-color: #DDDDDD;
+	}
+/*
+
+#FF00FF	 
+#800000	 
+#66CDAA	 
+#0000CD	 
+#BA55D3	 
+#9370D8	 
+#3CB371	 
+#7B68EE	 
+#00FA9A	 
+#48D1CC	 
+#C71585	 
+#191970	 
+#F5FFFA	 
+#FFE4E1	 
+#FFE4B5	 
+#FFDEAD	 
+#000080	 
+#FDF5E6	 
+#808000	 
+#6B8E23	 
+#FFA500	 
+#FF4500	 
+#DA70D6	 
+#EEE8AA	 
+#98FB98	 
+#AFEEEE	 
+#D87093	 
+#FFEFD5	 
+#FFDAB9	 
+#CD853F	 
+#FFC0CB	 
+#DDA0DD	 
+#B0E0E6	 
+#800080	 
+#FF0000	 
+#BC8F8F	 
+#4169E1	 
+#8B4513	 
+#FA8072	 
+#F4A460	 
+#2E8B57	 
+#FFF5EE	 
+#A0522D	 
+#C0C0C0	 
+#87CEEB	 
+#6A5ACD	 
+#708090	 
+#708090	 
+#FFFAFA	 
+#00FF7F	 
+#4682B4	 
+#D2B48C	 
+#008080	 
+#D8BFD8	 
+#FF6347	 
+#40E0D0	 
+#EE82EE	 
+#F5DEB3	 
+#FFFFFF	 
+#F5F5F5	 
+#FFFF00	 
+#9ACD32
+*/
